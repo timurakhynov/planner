@@ -1,0 +1,10 @@
+.planner {
+    margin: 0 50px;
+    position: relative;
+    height: 95vh;
+}
+
+.addFormDiv {
+    position: absolute;
+    bottom: 0;
+}

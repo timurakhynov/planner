@@ -1,0 +1,11 @@
+.dateForm {
+    display: flex;
+    justify-content: flex-start;
+}
+.dateFromTo {
+    margin-left: 20px;
+    width: 200px;
+}
+.addButton {
+    margin: 20px 0;
+}

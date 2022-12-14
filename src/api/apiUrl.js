@@ -1,0 +1,1 @@
+export const plannerApiUrl = 'http://195.210.47.140:8000/'

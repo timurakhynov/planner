@@ -1,0 +1,9 @@
+.RemoveButton {
+    background: none;
+    border: none;
+    font-weight: bolder;
+}
+.RemoveButton:hover {
+    cursor: pointer;
+    color: red;
+}
