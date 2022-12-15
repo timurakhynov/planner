@@ -19,6 +19,7 @@ const AddForm = (props) => {
                 <div className="dateFromTo">
                     <DatePicker
                         dateFormat="yyyy-MM-dd"
+                        placeholderText={'Период прогноза'}
                         minDate={props.date}
                         selectsRange={true}
                         startDate={startDate}
